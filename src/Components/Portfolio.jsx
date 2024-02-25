@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ai.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "simple background";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Pale-Blue-Dot-Visualization-Challenge",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Contriuted in a project utilizing Python, Plotly, Tableau, and Power BI to create interactive visualizations and dashboards showcasing the prevalence of undernourishment worldwide. The visuals aim to inform decisions and actions towards addressing undernourishment and achieving the goal of Zero Hunger (SDG 2).",
+    url: "https://github.com/aminasaeed223/Pale-Blue-Dot-Visualization-Challenge",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Student Score Analyzer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Analyzed student performance data to gain insights and identify patterns for informed decision-making in education",
+    url: "https://github.com/aminasaeed223/Data-Analysis/blob/main/Student%20Score%20Analyzer.ipynb",
   },
   {
-    title: "My Resume Site",
+    title: "Vrinda Store Data Analysis",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Analyzed sales data and customer trends to optimize operations and drive business growth for VRinda Store",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Article: Google Summer of Code",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Wrote a comprehensive analysis of the Google Summer of Code program, its significance in fostering open-source development, and the invaluable experiences gained by student participants.",
+    url: "https://medium.com/@femcodesofficial/google-summer-of-code-2024-insights-and-tips-from-alumni-df17cfc9f285",
   },
 ];
 
