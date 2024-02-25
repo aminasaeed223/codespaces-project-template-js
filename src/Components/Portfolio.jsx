@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Pale-Blue-Dot-Visualization-Challenge",
     description:
-      "Contriuted in a project utilizing Python, Plotly, Tableau, and Power BI to create interactive visualizations and dashboards showcasing the prevalence of undernourishment worldwide. The visuals aim to inform decisions and actions towards addressing undernourishment and achieving the goal of Zero Hunger (SDG 2).",
+      "Contributed in a project utilizing Python, Plotly, Tableau, and Power BI to create interactive visualizations and dashboards showcasing the prevalence of undernourishment worldwide. The visuals aim to inform decisions and actions towards addressing undernourishment and achieving the goal of Zero Hunger (SDG 2).",
     url: "https://github.com/aminasaeed223/Pale-Blue-Dot-Visualization-Challenge",
   },
   {
