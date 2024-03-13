@@ -24,7 +24,7 @@ const imageAltText = "this is simple background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  " I'm a passionate Software Engineering student, driven by the thrill of solving complex problems. ";
+  "I'm a passionate Computer Science enthusiast dedicated to continuous learning and growth in various domains of technology, with a belief in the transformative power of innovation and a commitment to promoting diversity and inclusivity in the tech industry.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -35,8 +35,12 @@ const skillsList = [
   "SQL",
   "HTML",
   "CSS",
+  "javascript"
+  "Problem Solving"
+  "Data Visualization"
   "Technical Writing",
   "Data Analysis",
+  "Leadership"
 
 ];
 
@@ -46,7 +50,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "With a strong foundation in programming and a keen interest in technology, I strive to create innovative and efficient solutions. I believe in the power of collaboration and have actively participated in team projects, where I've honed my communication and teamwork skills.";
+  "I am deeply committed to exploring various aspects of technology and making a positive impact through my work. Dedicated to diversity in tech. Empowering women through mentorship, collaboration and creating equal opportunities.";
 
 const About = () => {
   return (

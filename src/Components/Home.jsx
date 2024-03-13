@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/tech.jpg";
 
-const imageAltText = "Amina Saeed, Software Engineer";
+const imageAltText = "Amina Saeed";
 
 const Home = ({ name, title }) => {
   return (

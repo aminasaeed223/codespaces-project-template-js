@@ -37,10 +37,17 @@ const projectList = [
     url: "https://github.com/aminasaeed223/Pale-Blue-Dot-Visualization-Challenge",
   },
   {
-    title: "Student Score Analyzer",
+    title: "VoiceSync",
     description:
-      "Analyzed student performance data to gain insights and identify patterns for informed decision-making in education",
-    url: "https://github.com/aminasaeed223/Data-Analysis/blob/main/Student%20Score%20Analyzer.ipynb",
+      "Voice Sync is a collaborative hackathon project showcasing real-time voice to customized text synchronization, highlighting my teamwork and problem-solving skills. It demonstrates our ability to create innovative solutions in audio processing within a limited timeframe.",
+    url: "https://devpost.com/software/voicesync",
+  
+  },
+  {
+    title: "PharmCare",
+    description:
+      "PharmCare is an innovative project aimed at revolutionizing the healthcare industry by integrating advanced technologies like chatbot and predictive analysis. In this collaborative endeavor, we work together to enhance the capabilities of the existing system.",
+    url: "https://lablab.ai/event/leap-2024-hackathon/pharmacy-management/pharmacode",
   },
   {
     title: "Vrinda Store Data Analysis",
