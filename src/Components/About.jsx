@@ -35,12 +35,12 @@ const skillsList = [
   "SQL",
   "HTML",
   "CSS",
-  "javascript"
-  "Problem Solving"
-  "Data Visualization"
+  "javascript",
+  "Problem Solving",
+  "Data Visualization",
   "Technical Writing",
   "Data Analysis",
-  "Leadership"
+  "Leadership",
 
 ];
 
