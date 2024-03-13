@@ -61,6 +61,12 @@ const projectList = [
       "Wrote a comprehensive analysis of the Google Summer of Code program, its significance in fostering open-source development, and the invaluable experiences gained by student participants.",
     url: "https://medium.com/@femcodesofficial/google-summer-of-code-2024-insights-and-tips-from-alumni-df17cfc9f285",
   },
+  {
+    title: "FEMCodes",
+    description:
+      "FEMCodes is a non-profit organization dedicated to empowering women in technology and STEM fields. Through a range of initiatives including events, mentorship programs, educational opportunities, and advocacy efforts, we aim to promote gender diversity and create a more inclusive future in the digital empowerment and STEM industries. Our mission is to provide women with the skills, support, and resources needed to succeed, ultimately closing the gender gap and fostering innovation in these fields.",
+    url: "https://www.youtube.com/@FEMCodes",
+  },
 ];
 
 const Portfolio = () => {
